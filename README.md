@@ -24,6 +24,9 @@ Welcome to my GitHub repository, the central hub where I consolidate all my pers
 -->
 <h2>⚙️ Automation Projects:</h2>
 
+- <b>Ansible</b>
+  - [File Deployment Playbook for Multiple Servers](https://github.com/NotMhoo/AnsiblePlaybooks)
+
 <h2>🔓 Cybersecurity Projects:</h2>
 
 <h2>📄 Certifications:</h2>
