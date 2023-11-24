@@ -30,6 +30,7 @@ Welcome to my GitHub repository, the central hub where I consolidate all my pers
 <h2>🔓 Cybersecurity Projects:</h2>
 
 <h2>👨‍💻 Development Projects:</h2>
+
   - [AWS Cloud Resume Challenge](https://github.com/NotMhoo/aws-cloud-resume-challenge)
 
 <h2>📄 Certifications:</h2>
