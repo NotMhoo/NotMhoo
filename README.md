@@ -36,8 +36,8 @@ Welcome to my GitHub repository, the central hub where I consolidate all my pers
 <h2>📄 Certifications:</h2>
 
   - [Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/certifications/cissp)
-  - [Qualys CyberSecurity Asset Management (CSAM)]
-  - [Qualys Vulnerability Management Detection & Response]
+  - [Qualys CyberSecurity Asset Management (CSAM)](https://www.qualys.com/training/course/cybersecurity-asset-management-csam/)
+  - [Qualys Vulnerability Management Detection & Response](https://www.qualys.com/training/course/vmdr/)
   - [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
   - [Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc)
   - [Cisco Certified Network Associate (CCNA)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
